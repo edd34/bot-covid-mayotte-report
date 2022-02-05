@@ -29,7 +29,7 @@ Nb décès : {deces:,}.\n\
 Nb guéris : {gueris:,}.\n\
 Nb tests réalisés : {testees:,}.\n\
 Nb hbts : {hbts:,}.\n\n\
-MAJ le {date} à {heure}.\nhttps://disease.sh/\n\n\n\
+MAJ le {date} à {heure} (UTC+0300).\nhttps://disease.sh/\n\n\n\
 #covid #coronavirus #corona #mayotte #france #mahorais\
 ".format(positifs=nb_active,
          p_positifs=nb_active/population,
